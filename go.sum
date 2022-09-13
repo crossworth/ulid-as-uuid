@@ -1,8 +1,6 @@
 ariga.io/atlas v0.6.5-0.20220907173155-3332f3c1b8c9 h1:hb7cCS3+idkvWRxKIiH0pBiyO9tJ9gRiecY+ohA//VY=
 ariga.io/atlas v0.6.5-0.20220907173155-3332f3c1b8c9/go.mod h1:ft47uSh5hWGDCmQC9DsztZg6Xk+KagM5Ts/mZYKb9JE=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
-entgo.io/ent v0.11.3-0.20220911055238-d9b3004be772 h1:IzYaPZUYE8is7jx5X4cP2sSzNDhVkqiOgdml7VCXYek=
-entgo.io/ent v0.11.3-0.20220911055238-d9b3004be772/go.mod h1:be6UmTMW0HmZBTiD2VIL/A7d/yf7CsODBVJ+VUYuixA=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/DATA-DOG/go-sqlmock v1.5.0 h1:Shsta01QNfFxHCfpW6YH2STWB0MudeXXEWMr20OEh60=
 github.com/DATA-DOG/go-sqlmock v1.5.0/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
@@ -18,6 +16,8 @@ github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDk
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/cpuguy83/go-md2man/v2 v2.0.2/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
+github.com/crossworth/ent v0.10.1-0.20220913163518-d8d31f7b97c0 h1:b35hNnH8RPBRjdH3FlvfNjrvPjLp/iCkofLqHON/zC0=
+github.com/crossworth/ent v0.10.1-0.20220913163518-d8d31f7b97c0/go.mod h1:be6UmTMW0HmZBTiD2VIL/A7d/yf7CsODBVJ+VUYuixA=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
