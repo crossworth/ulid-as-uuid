@@ -10,7 +10,7 @@ require (
 	github.com/oklog/ulid/v2 v2.1.0
 )
 
-replace entgo.io/ent => github.com/crossworth/ent v0.10.1-0.20220913163518-d8d31f7b97c0
+replace entgo.io/ent => github.com/crossworth/ent v0.10.1-0.20220913165355-0c5e260f5c84
 
 require (
 	ariga.io/atlas v0.6.5-0.20220907173155-3332f3c1b8c9 // indirect
